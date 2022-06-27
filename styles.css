@@ -17,7 +17,7 @@ body {
 }
 
 body.home {
-    background-image: url(/assets/home/background-home-mobile.jpg);
+    background-image: url(assets/home/background-home-mobile.jpg);
 }
 
 body.home .home-nav {
@@ -509,7 +509,7 @@ body.crew .switch.active {
 
 @media (min-width: 1024px) {
     body.home {
-        background-image: url(./assets/home/background-home-desktop.jpg);
+        background-image: url(assets/home/background-home-desktop.jpg);
     }
     body.destination {
         background-image: url(assets/destination/background-destination-desktop.jpg);
